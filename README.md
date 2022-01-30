@@ -1,0 +1,1 @@
+# Lenovo-T530-OpenCore-Hackintosh
